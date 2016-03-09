@@ -1,0 +1,2 @@
+echo "rami"
+read password
